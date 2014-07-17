@@ -21,12 +21,12 @@
 	<!-- include swf resource lib ... like so ...	
 	<library id="oluvLib" path="assets/library.swf" type="swf"/>	
 	
--->
 	<library path="swfmill/resource.swf" type="swf" />
+-->
 	
 	<!-- assets -->
 	<icon path="assets/openfl.svg" />
-	<assets path="assets/img" rename="img" />
+	<assets path="assets/images" include="*" />
 	
 	<!-- optimize output
 	<haxeflag name="-dce full" /> -->
