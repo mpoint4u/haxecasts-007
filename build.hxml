@@ -1,0 +1,12 @@
+#build file
+-cp src
+-cp src/lib
+-cp src/bitmaps
+-main Main
+-swf-lib ../swfmill/resource.swf
+-swf bin/output.swf
+
+-swf-header 300:150:20:EEEEEE
+-swf-version 11
+-debug
+
