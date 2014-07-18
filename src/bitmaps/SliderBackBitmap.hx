@@ -1,6 +1,6 @@
 package bitmaps;
 
-import flash.display.Bitmap; 
+import openfl.display.Bitmap; 
 import openfl.Assets;
 
 class SliderBackBitmap extends Bitmap 

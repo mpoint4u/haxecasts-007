@@ -2,9 +2,9 @@ package lib;
 
 import bitmaps.SliderBackBitmap;
 import bitmaps.SliderHandleBitmap;
-import flash.display.Sprite;
-import flash.events.Event;
-import flash.events.MouseEvent;
+import openfl.display.Sprite;
+import openfl.events.Event;
+import openfl.events.MouseEvent;
 
 class Slider extends MouseHandler
 {

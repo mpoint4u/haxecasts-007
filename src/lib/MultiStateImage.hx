@@ -1,10 +1,10 @@
 package lib;
 
-import flash.display.Sprite;
-import flash.events.Event;
+import openfl.display.Sprite;
+import openfl.events.Event;
 
-import flash.display.Shape;
-import flash.display.Bitmap;
+import openfl.display.Shape;
+import openfl.display.Bitmap;
 
 
 class MultiStateImage extends Sprite

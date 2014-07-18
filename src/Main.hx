@@ -1,6 +1,6 @@
 import bitmaps.BackdropBitmap;
-import flash.display.Sprite;
-import flash.Lib;
+import openfl.display.Sprite;
+import openfl.Lib;
 
 class Main extends Sprite
 {

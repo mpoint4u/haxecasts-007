@@ -1,5 +1,5 @@
-import flash.events.EventDispatcher;
-import flash.events.Event;
+import openfl.events.EventDispatcher;
+import openfl.events.Event;
 
 class RadioStation extends EventDispatcher
 {

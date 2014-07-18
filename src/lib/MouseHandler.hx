@@ -1,8 +1,8 @@
 package lib;
 
-import flash.display.Sprite;
-import flash.events.MouseEvent;
-import flash.events.Event;
+import openfl.events.MouseEvent;
+import openfl.events.Event;
+import openfl.display.Sprite;
 
 
 class MouseHandler extends Sprite

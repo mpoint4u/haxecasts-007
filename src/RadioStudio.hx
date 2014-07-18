@@ -1,5 +1,5 @@
-import flash.display.Sprite;
-import flash.events.Event;
+import openfl.display.Sprite;
+import openfl.events.Event;
 import lib.Slider;
 
 class RadioStudio extends Sprite

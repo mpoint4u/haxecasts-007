@@ -1,8 +1,8 @@
 package lib;
 
 import bitmaps.MeterBitmap;
-import flash.events.Event;
-import flash.display.Sprite;
+import openfl.events.Event;
+import openfl.display.Sprite;
 
 class Meter extends Sprite
 {

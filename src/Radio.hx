@@ -1,7 +1,7 @@
 import bitmaps.HaxeCastsBitmap;
 import bitmaps.HaxeMusicBitmap;
-import flash.display.Sprite;
-import flash.events.Event;
+import openfl.display.Sprite;
+import openfl.events.Event;
 import lib.Button;
 import lib.Meter;
 
